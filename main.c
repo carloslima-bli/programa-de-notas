@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define MAX_ESTUDIANTES 100
 #define ASIGNATURAS 3
  
@@ -17,3 +18,11 @@ int main(){
  }
         return 0;
         }
+
+int main()
+{
+
+    
+
+    return 0;
+}

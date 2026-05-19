@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "ingresar_calificaciones.h"
 
 #define MAX_ESTUDIANTES 100
 #define ASIGNATURAS 3
